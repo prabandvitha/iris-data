@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jan  5 10:29:13 2022
+
+@author: hp
+"""
+
+numpy>=1.9.2
+scipy>=0.15.1
+scikit-learn==0.22.1
+matplotlib>=1.4.3
+pandas>=0.19
+streamlit

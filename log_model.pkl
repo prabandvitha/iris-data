@@ -1,0 +1,12 @@
+Äcsklearn.linear_model._logistic
+LogisticRegression
+q )Åq}q(X   penaltyqX   l2qX   dualqâX   tolqG?6‚ÎC-X   CqG?      X   fit_interceptqàX   intercept_scalingq	KX   class_weightq
+NX   random_stateqNX   solverqX   lbfgsqX   max_iterqKdX   multi_classqX   autoqX   verboseqK X
+   warm_startqâX   n_jobsqNX   l1_ratioqNX   n_features_in_qKX   classes_qcnumpy.core.multiarray
+_reconstruct
+qcnumpy
+ndarray
+qK ÖqCbqáqRq(KKÖqcnumpy
+dtype
+qX   i4qâàáq Rq!(KX   <q"NNNJˇˇˇˇJˇˇˇˇK tq#bâC          q$tq%bX   coef_q&hhK Öq'háq(Rq)(KKKÜq*hX   f8q+âàáq,Rq-(Kh"NNNJˇˇˇˇJˇˇˇˇK tq.bâC`"P\°√Ó€øò¢°*°ÕÏ?˘yîË-ƒ¿Â)üâø…⁄îógÚ‘?=bò<î—øÖ òÂ∞¡øDGVUˇiÎøD‘'pÒª?5ÑpﬁÇ‰øù:<ﬂ@ÉMJ4œ˝?q/tq0bX
+   intercept_q1hhK Öq2háq3Rq4(KKÖq5h-âCÂŒÎe¸˚"@°‘∏M≥@zÌ”œ®(¿q6tq7bX   n_iter_q8hhK Öq9háq:Rq;(KKÖq<h!âC`   q=tq>bX   _sklearn_versionq?X   0.23.1q@ub.
