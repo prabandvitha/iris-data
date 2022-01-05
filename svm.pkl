@@ -1,0 +1,13 @@
+Äcsklearn.svm._classes
+LinearSVC
+q )Åq}q(X   dualqàX   tolqG?6‚ÎC-X   CqG?      X   multi_classqX   ovrqX   fit_interceptqàX   intercept_scalingq	KX   class_weightq
+NX   verboseqK X   random_stateqNX   max_iterqMËX   penaltyqX   l2qX   lossqX   squared_hingeqX   n_features_in_qKX   classes_qcnumpy.core.multiarray
+_reconstruct
+qcnumpy
+ndarray
+qK ÖqCbqáqRq(KKÖqcnumpy
+dtype
+qX   i4qâàáqRq(KX   <qNNNJˇˇˇˇJˇˇˇˇK tq bâC          q!tq"bX   coef_q#hhK Öq$háq%Rq&(KKKÜq'hX   f8q(âàáq)Rq*(KhNNNJˇˇˇˇJˇˇˇˇK tq+bàC`¿Û6>bï«?¨=<ÉhWµ?ÀÍøH<íÌø|NÈ»˝‡‹?¸QÕ1°yÏøì\®ƒÓøæÈY≠⁄ÈøH‚\¿@U–?æ_¿ dR˘?ò◊Äÿ‹øS=i’ÚÆ„øÍwL ﬁˆ?q,tq-bX
+   intercept_q.hhK Öq/háq0Rq1(KKÖq2h*âCõÓzMº?K7±ò$É˙?ù€˛·sô˘øq3tq4bX   n_iter_q5cnumpy.core.multiarray
+scalar
+q6hX   i4q7âàáq8Rq9(KhNNNJˇˇˇˇJˇˇˇˇK tq:bCË  q;Üq<Rq=X   _sklearn_versionq>X   0.23.1q?ub.
